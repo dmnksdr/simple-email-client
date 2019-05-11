@@ -1,0 +1,46 @@
+* 5 FETCH (RFC822 {1907}
+Return-Path: <aghedu@wp.pl>
+Delivered-To: aghedu@wp.pl
+Received: (wp-smtpd smtp.wp.pl 26136 invoked from network); 10 May 2019 20:09:12 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=wp.pl; s=1024a;
+          t=1557511752; bh=GYRnRpLiVEo9prkw/ui8KeT6JtNdfO68HP4eDa3bhrY=;
+          h=Subject:From:To;
+          b=hIBVErUiq4eeHyCLMhHi2BX17sv0maf5KJ+cXHXm0lnpzQvXWubs+SFtcxI743FN2
+           bfsTQmtj66Jb1XqCoDPe9WcS4xQ+l7UXXCnmbYuGltjchrg+YI/jW/RW0pjb1YrKnU
+           euxCnn/nsTj+E6To2iu2fgxHt6zjDXQGPKY5DCiE=
+Received: from localhost.localdomain (HELO localhost) ([127.0.0.1])
+          (envelope-sender <aghedu@wp.pl>)
+          by smtp.wp.pl (WP-SMTPD) with SMTP
+          for <aghedu@wp.pl>; 10 May 2019 20:09:12 +0200
+Content-Type: multipart/alternative; boundary="2XVSAHWGGJUDSSNGDHSDEnhgwp"
+MIME-Version: 1.0
+User-Agent: GWP-Draft
+X-Originator: 78.11.193.172
+X-FactoryStamp: H---
+Date: Fri, 10 May 2019 20:09:12 +0200
+X-Draft-Variant: new
+X-Draft-Contenttype: text/html
+Priority: normal
+Subject: =?UTF-8?Q?Test_skrzynki_=C5=BC=C5=82=C3=B3=C4=87=C5=9B=C5=BA=C5=BC?=
+From: =?UTF-8?Q?aghedu=40wp=2Epl?= <aghedu@wp.pl>
+To: =?UTF-8?Q?aghedu=40wp=2Epl?= <aghedu@wp.pl>
+Message-ID: <511d1d69c14a40279fc724a1cf1d1622@grupawp.pl>
+X-WP-DKIM-Status: good (id: wp.pl)
+X-WP-MailID: ce2e71857383d76624adbc02717fb056
+X-WP-AV: skaner antywirusowy Poczty Wirtualnej Polski
+X-WP-SPAM: NO (A) 1000010 [IRMk]
+
+--2XVSAHWGGJUDSSNGDHSDEnhgwp
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+Test skrzynki =C5=BC=C5=82=C3=B3=C4=87=C5=9B=C5=BA=C5=BC=0D
+
+--2XVSAHWGGJUDSSNGDHSDEnhgwp
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<div>Test skrzynki =C5=BC=C5=82=C3=B3=C4=87=C5=9B=C5=BA=C5=BC</div>
+--2XVSAHWGGJUDSSNGDHSDEnhgwp--
+)
+1 OK Fetch completed

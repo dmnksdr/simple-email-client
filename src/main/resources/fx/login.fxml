@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="350.0" prefWidth="500.0" style="-fx-background-color: #5D5C61;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edu.agh.emailclient.gui.LoginController">
+   <children>
+      <TextField fx:id="smtpServerAddress" layoutX="60.0" layoutY="29.0" style="-fx-background-color: #b1a296;" text="smtp.wp.pl" />
+      <TextField fx:id="imapServerAddress" layoutX="60.0" layoutY="77.0" style="-fx-background-color: #b1a296;" text="imap.wp.pl" />
+      <TextField fx:id="login" layoutX="60.0" layoutY="128.0" style="-fx-background-color: #b1a296;" text="aghedu" />
+      <PasswordField fx:id="password" layoutX="60.0" layoutY="182.0" style="-fx-background-color: #b1a296;" text="\$tPaL7[rk+_}T8*A" />
+      <Label layoutX="283.0" layoutY="34.0" text="SMTP SERVER ADDRESS" textFill="#b1a296" />
+      <Label layoutX="283.0" layoutY="82.0" text="IMAP SERVER ADDRESS" textFill="#b1a296" />
+      <Label layoutX="283.0" layoutY="133.0" text="LOGIN" textFill="#b1a296" />
+      <Label layoutX="283.0" layoutY="187.0" text="PASSWORD" textFill="#b1a296" />
+      <Label fx:id="errorLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="25.0" layoutY="244.0" prefHeight="21.0" prefWidth="450.0" textAlignment="CENTER" textFill="#501b1d" />
+      <Button layoutX="213.0" layoutY="293.0" mnemonicParsing="false" onAction="#login" style="-fx-background-color: #0078aa;" text="LOG IN" textFill="#b1a296" />
+   </children>
+</AnchorPane>

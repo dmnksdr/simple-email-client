@@ -1,0 +1,25 @@
+* 1 FETCH (FLAGS (\Seen) BODY[HEADER.FIELDS (DATE FROM SUBJECT)] {103}
+Date: Sun, 31 Mar 2019 13:23:02 +0200
+From: WP Poczta <poczta@wp.pl>
+Subject: Witaj w WP Poczcie!
+
+)
+* 2 FETCH (FLAGS (\Seen) BODY[HEADER.FIELDS (DATE FROM SUBJECT)] {200}
+Date: Mon, 8 Apr 2019 20:35:13 +0200
+Subject: =?utf-8?B?MjIgdXJvZHppbnkgQ2FzdG9yYW1hISBTcHJhd2TFuiBtb2MgbmFncsOzZA==?=
+From: "=?utf-8?B?Q2FzdG9yYW1hIFBvbHNrYSBTcC4geiBvLm8uIC9XUA==?=" <wp@wp.pl>
+
+)
+* 3 FETCH (FLAGS (\Seen) BODY[HEADER.FIELDS (DATE FROM SUBJECT)] {201}
+Date: Wed, 17 Apr 2019 20:56:44 +0200
+Subject: =?utf-8?B?MjIgdXJvZHppbnkgQ2FzdG9yYW1hISBTcHJhd2TFuiBtb2MgbmFncsOzZA==?=
+From: "=?utf-8?B?Q2FzdG9yYW1hIFBvbHNrYSBTcC4geiBvLm8uIC9XUA==?=" <wp@wp.pl>
+
+)
+* 4 FETCH (FLAGS (\Seen) BODY[HEADER.FIELDS (DATE FROM SUBJECT)] {107}
+Date: Thu, 18 Apr 2019 19:03:28 +0200
+Subject: Test
+From: =?UTF-8?Q?aghedu=40wp=2Epl?= <aghedu@wp.pl>
+
+)
+1 OK Fetch completed

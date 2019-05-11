@@ -1,0 +1,360 @@
+Return-Path: <poczta@wp.pl>
+Delivered-To: aghedu@wp.pl
+X-WP-TRUSTED: YES
+X-WP-SPAM: NO (U9)  smtp.wp.pl 20350 invoked from network); 31 Mar 2019 13:23:02 +0200
+Received: from unknown (HELO localhost) ([unknown])
+          (envelope-sender <poczta@wp.pl>)
+          by smtp.wp.pl (WP-SMTPD) with SMTP
+          for <aghedu@wp.pl>; 31 Mar 2019 13:23:02 +0200
+Date: Sun, 31 Mar 2019 13:23:02 +0200
+Message-ID: <741111dbff1144bf9e0be6d1007d97d5@grupawp.pl>
+X-WP-FOLDER: inbox
+Reply-To: WP Poczta <ppoczta@wp.pl>
+To: aghedu
+From: WP Poczta <poczta@wp.pl>
+Subject: Witaj w WP Poczcie!
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="------------D7F1D8358B7D2399DF8C0BC3"
+
+This is a multi-part message in MIME format.
+--------------D7F1D8358B7D2399DF8C0BC3
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>WP Poczta</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body style="background: #ffffff; font-size: 16px; line-height: 1.5; margin: 0; padding: 0;">
+    <table cellpadding="0" cellspacing="0" align="center" style="max-width: 40em; width: 100%;">
+      <tr>
+        <td style="padding: 16px;">
+          <a style="border: 0; text-decoration: none;" href="https://poczta.wp.pl" target="_blank"><img src="cid:part1.8933EFF5.F4707539@wp.pl" height="60" width="79" style="border: 0; height: 60px; width: 79px; vertical-align: middle;" alt="WP Poczta"></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #ED1C24; min-height: 96px; padding-top: 24px; padding-bottom: 24px; padding-left: 20px; padding-right: 24px;">
+              <tr>
+                <td valin="middle">
+                  <h2 style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 400; line-height: 1.1; margin: 0; padding: 0; width: 100%;">
+                    Witaj Agh!
+                  </h2>
+                </td>
+              </tr>
+            </table>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 16px 16px 24px;">
+          <p style="color: #333333; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.5; margin: 0; margin-top: 5px; margin-bottom: 5px;"><strong>Twoje konto w WP Poczcie zostało utworzone!</strong></p>
+
+          <p style="color: #333333; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+          Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.5; margin: 0;margin-bottom: 1em;">Poniżej kilka przydatnych uwag.</p>
+
+          <h3 style="color: #333333; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.4; margin-bottom: 0; padding: 0;">Twój adres e-mail</h3>
+
+          <ul style="margin-top: 8px; margin-bottom: 24px;">
+            <li style="color: #222222; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.4;">aghedu@wp.pl</li>
+          </ul>
+
+          <h3 style="color: #333333; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.4; margin-bottom: 0; padding: 0;">Dostęp do skrzynki</h3>
+
+          <ul style="margin-top: 8px; margin-bottom: 24px;">
+            <li style="color: #222222; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.4; margin-bottom: 0.75em;">logując się na stronie <a style="border: 0; color: #007aff; text-decoration: underline;" target="_blank" href="https://poczta.wp.pl">https://poczta.wp.pl</a> (zarówno na komputerze stacjonarnym jak i telefonie komórkowym);</li>
+
+            <li style="color: #222222; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.4; margin-bottom: 0.75em;">poprzez aplikację mobilną WP&nbsp;Poczty<br>
+
+              <div style="margin-top: 8px;">
+                <table cellspacing="0" cellpadding="0" border="0">
+                    <tr>
+                      <td style="padding-right: 8px;"><a style="border: 0; text-decoration: none" target="_blank" href="https://play.google.com/store/apps/details?id=pl.wp.wppoczta"><img style="border: 0; display: block; height: 40px; width: 135px;" src="cid:part8.D287A52C.BE67D23F@wp.pl" alt="Pobierz aplikację WP Poczty na system Android" height="40" width="135" border="0"></a></td>
+                      <td><a style="border: 0; text-decoration: none" target="_blank" href="https://itunes.apple.com/pl/app/wp-poczta/id1164870575?l=pl&mt=8"><img style="border: 0; display: block; height: 40px; width: 136px;" src="cid:part10.18F4BD22.2C2C2178@wp.pl" alt="Pobierz aplikację WP Poczty na system iOS" height="40" width="136" border="0"></a></td>
+                    </tr>
+                </table>
+              </div>
+            </li>
+
+            <li style="color: #222222; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.4; margin-bottom: 0.75em;">poprzez dowolny program pocztowy (MS Outlook, The Bat, Mozilla Thunderbird itp.).
+              <p style="color: #757575; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; line-height: 1.33; margin-top: 4px; margin-bottom: 1em;">Informacje o konfiguracji różnych programów pocztowych znajdziesz <a style="border: 0; color: #757575; text-decoration: underline;" target="_blank"  href="https://pomoc.wp.pl/jak-skonfigurowac-program-pocztowy">tutaj</a>.</p>
+            </li>
+          </ul>
+
+          <p style="color: #757575; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+          Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; line-height: 1.4; margin: 0;margin-bottom: 1em;">
+            Pozdrawiamy,<br>
+            Zespół WP Poczty
+          </p>
+
+          <div style="background-color: #F5F6F7; border-radius: 4px; margin-top: 32px; margin-bottom: 16px; padding-top: 24px; padding-bottom: 24px; padding-left: 32px; padding-right: 32px;">
+            <h3 style="color: #212121; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 600; line-height: 1.2; margin: 0; margin-bottom: 16px;text-align: center;">Potrzebujesz dodatkowej pomocy?</h3>
+            <p style="color: #646566; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; margin-top: 8px; padding: 0; text-align: center;">Nasz zespół służy wsparciem i jest po to, aby&nbsp;Ci&nbsp;pomóc.
+            <br/>Skontaktuj się z nami.</p>
+            <p style="margin-top: 32px; margin-bottom: 16px; text-align: center;">
+              <a style="background-color: #fff; border: 1px solid #E0E0E0; border-radius: 100px; color: #007aff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; padding-left: 24px; padding-top: 8px; padding-bottom: 8px; padding-right: 24px; text-decoration: none;" href="https://pomoc.wp.pl" target="_blank">Skontaktuj się</a>
+            </p>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+--------------D7F1D8358B7D2399DF8C0BC3
+Content-Type: image/png;
+ name="logo-poczta-wp.png"
+Content-Transfer-Encoding: base64
+Content-ID: <part1.8933EFF5.F4707539@wp.pl>
+Content-Disposition: inline;
+ filename="logo-poczta-wp.png"
+
+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
+
+--------------D7F1D8358B7D2399DF8C0BC3
+Content-Type: image/png;
+ name="android.png"
+Content-Transfer-Encoding: base64
+Content-ID: <part8.D287A52C.BE67D23F@wp.pl>
+Content-Disposition: inline;
+ filename="android.png"
+
+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
+RK5CYII=
+--------------D7F1D8358B7D2399DF8C0BC3
+Content-Type: image/png;
+ name="ios.png"
+Content-Transfer-Encoding: base64
+Content-ID: <part10.18F4BD22.2C2C2178@wp.pl>
+Content-Disposition: inline;
+ filename="ios.png"
+
+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
+RU5ErkJggg==
+--------------D7F1D8358B7D2399DF8C0BC3--
+)
+1 OK Fetch completed

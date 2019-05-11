@@ -1,0 +1,11 @@
+* LIST (\Noinferiors \Drafts) "/" "Drafts"
+* LIST (\Noinferiors) "/" "INBOX"
+* LIST (\Noinferiors \Archive) "/" "INBOX/Archive"
+* LIST (\HasChildren) "/" "Segregator"
+* LIST (\HasNoChildren) "/" "Segregator/Newslettery"
+* LIST (\HasNoChildren) "/" "Segregator/Oferty"
+* LIST (\HasNoChildren) "/" "Segregator/Spo&AUI-eczno&AVs-ci"
+* LIST (\Noinferiors \Sent) "/" "Sent"
+* LIST (\Noinferiors \Junk) "/" "Spam"
+* LIST (\Noinferiors \Trash) "/" "Trash"
+1 OK List completed

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.web.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="800.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edu.agh.emailclient.gui.NewMailController">
+   <children>
+      <VBox prefHeight="600.0" prefWidth="1000.0" style="-fx-background-color: #5D5C61;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <HBox alignment="CENTER" layoutX="10.0" layoutY="10.0" prefHeight="40.0" prefWidth="200.0">
+               <children>
+                  <Label alignment="CENTER_RIGHT" prefWidth="60.0" text="To:" textFill="#b1a296" />
+                  <Region prefWidth="20.0" />
+                  <TextField fx:id="toField" prefWidth="600.0" />
+               </children>
+               <padding>
+                  <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+               </padding>
+            </HBox>
+            <HBox alignment="CENTER" layoutX="10.0" layoutY="61.0" prefHeight="40.0" prefWidth="200.0">
+               <children>
+                  <Label alignment="CENTER_RIGHT" prefWidth="60.0" text="Cc:" textFill="#b1a296" />
+                  <Region prefWidth="20.0" />
+                  <TextField fx:id="ccField" prefWidth="600.0" />
+               </children>
+               <padding>
+                  <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+               </padding>
+            </HBox>
+            <HBox alignment="CENTER" layoutX="10.0" layoutY="112.0" prefHeight="40.0" prefWidth="200.0">
+               <children>
+                  <Label alignment="CENTER_RIGHT" prefWidth="60.0" text="Bcc:" textFill="#b1a296" />
+                  <Region prefWidth="20.0" />
+                  <TextField fx:id="bccField" prefWidth="600.0" />
+               </children>
+               <padding>
+                  <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+               </padding>
+            </HBox>
+            <HBox fx:id="fromHBox" alignment="CENTER" prefHeight="40.0" prefWidth="200.0" visible="false">
+               <children>
+                  <Label alignment="CENTER_RIGHT" prefWidth="60.0" text="Name" textFill="#b1a296" />
+                  <Region prefWidth="20.0" />
+                  <TextField fx:id="fromNameField" editable="false" prefWidth="260.0" />
+                  <Label alignment="CENTER_RIGHT" layoutX="200.0" layoutY="18.0" prefWidth="60.0" text="Email:" textFill="#b1a296" />
+                  <Region layoutX="230.0" layoutY="12.0" prefWidth="20.0" />
+                  <TextField fx:id="fromAddressField" editable="false" layoutX="405.0" layoutY="13.0" prefWidth="260.0" />
+               </children>
+               <padding>
+                  <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+               </padding>
+            </HBox>
+            <HBox alignment="CENTER" layoutX="10.0" layoutY="130.0" prefHeight="40.0" prefWidth="200.0">
+               <children>
+                  <Label alignment="CENTER_RIGHT" prefWidth="60.0" text="Subject:" textFill="#b1a296" />
+                  <Region prefWidth="20.0" />
+                  <TextField fx:id="subject" prefWidth="800.0" />
+               </children>
+               <padding>
+                  <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+               </padding>
+            </HBox>
+            <Region prefHeight="20.0" />
+            <HBox>
+               <children>
+                  <HTMLEditor fx:id="text" htmlText="&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;" HBox.hgrow="ALWAYS" />
+               </children>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+            </HBox>
+            <HBox alignment="CENTER_RIGHT" prefWidth="200.0">
+               <children>
+                  <Button layoutX="778.0" layoutY="10.0" mnemonicParsing="false" onAction="#enableFromFieldsOverride" style="-fx-background-color: #0078aa;" text="Override from fields" />
+                  <Region layoutX="876.0" layoutY="10.0" prefWidth="20.0" />
+                  <Button mnemonicParsing="false" onAction="#openFileChooser" style="-fx-background-color: #0078aa;" text="Attachment" />
+                  <Region prefWidth="20.0" />
+                  <Button mnemonicParsing="false" onAction="#send" style="-fx-background-color: #0078aa;" text="Send" />
+                  <Region prefWidth="20.0" />
+               </children>
+            </HBox>
+            <HBox>
+               <children>
+                  <Label fx:id="infoLabel" prefWidth="800.0" textFill="#b1a296" />
+               </children>
+            </HBox>
+         </children>
+         <padding>
+            <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+         </padding>
+      </VBox>
+   </children>
+</AnchorPane>
